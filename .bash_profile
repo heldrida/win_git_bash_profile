@@ -1,4 +1,5 @@
 # I've created this file while working with Git-Bash on Win7 #
+# info about git bash here http://msysgit.github.io/ #
 
 ####################
 ### IMPROVEMENTS ###
