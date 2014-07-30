@@ -1,3 +1,5 @@
+# I've created this file while working with Git-Bash on Win7 #
+
 ####################
 ### IMPROVEMENTS ###
 ####################
@@ -24,3 +26,6 @@ alias path='echo -e ${PATH//:/\\n}'
 alias now='date +%Y-%m-%d"  "%T'
 alias nowtime=now
 alias nowdate='date +"%d-%m-%Y"'
+
+# SET VI DEFAULTS #
+alias vi=vim
